@@ -1,1 +1,3 @@
 Hello World!
+
+Editing for Vim (git commit)
